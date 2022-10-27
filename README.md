@@ -21,7 +21,7 @@ RNN is used for training the captions for images. LSTM is used for sequence lear
 After that both models are merged together which is also called as decoder.
 6000 images are used for training
 
-
+NOTE : I have not pushed dataset and all epoch models due to it's memory size.
 
 
 
